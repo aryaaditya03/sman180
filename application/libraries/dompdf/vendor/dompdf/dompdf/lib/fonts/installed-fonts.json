@@ -1,0 +1,15 @@
+{
+    "glyphicons halflings": {
+        "normal": "glyphicons_halflings_normal_91a063d0f3772b152f606edc0383c99d"
+    },
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_11ba293ab686842fec5189ec0db5b700"
+    },
+    "font awesome 5 free": {
+        "normal": "C:\\xampp\\htdocs\\newstudentinfo\\application\\libraries\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/font_awesome_5_free_normal_73137d985a112844b5ccbdfa468c2f0a",
+        "900": "font_awesome_5_free_900_bd6a071018fe10920731c665db90fe31"
+    },
+    "poppins": {
+        "normal": "poppins_normal_76df55b5114b1626b7db1a4cd816c320"
+    }
+}

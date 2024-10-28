@@ -1,0 +1,4 @@
+Made by Arya Nur Aditya
+Universitas BSI - Jurusan Sistem Informasi
+
+Import database ke phpmyadmin!!
